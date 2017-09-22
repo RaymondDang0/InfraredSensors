@@ -6,6 +6,7 @@
 	<p> 
 	"Project Schedule"
 	<a href= https://github.com/arZone1/InfraredSensors/blob/master/RaymondDang_N01048235_Schedule.xml</a>
-
+	<h3 id = "September 15,2017"> September,15,2017 </h3>
+	
 </html>
 <body>
