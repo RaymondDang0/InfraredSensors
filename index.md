@@ -5,7 +5,7 @@
 	<h3 id = "September 22,2017"> September,22 ,2017 </h3>
 	<p> 
 	"Project Schedule"
-	<a href= https://github.com/arZone1/InfraredSensors/blob/master/RaymondDang_N01048235_Schedule.xml</a>
+	<a href= https://github.com/arZone1/InfraredSensors/blob/master/RaymondDang_N01048235_Schedule.xml </a>
 		<p>
 	<h3 id = "September 15,2017"> September,15,2017 </h3>
 	
