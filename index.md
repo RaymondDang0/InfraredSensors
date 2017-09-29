@@ -5,7 +5,7 @@ layout: page
 title: simple site
 ---
 
-Example Blog.
+Raymonds Infrared Project Blog
 -------------
 
 ### September 29,2017
