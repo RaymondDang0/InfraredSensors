@@ -8,6 +8,10 @@ title: simple site
 Raymonds Infrared Project Blog
 -------------
 
+### September 30,2017
+
+Unboxing [Raspberry Pi 3]().
+
 ### September 29,2017
 Created [project buget](https://github.com/arZone1/InfraredSensors/blob/master/Raymond_Budget.pdf).
 
