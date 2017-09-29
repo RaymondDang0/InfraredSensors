@@ -9,7 +9,7 @@ Example Blog.
 -------------
 
 ### September 29,2017
-Created [project buget] (https://github.com/arZone1/InfraredSensors/blob/master/Raymond_Budget.xlsx).
+Created [project buget] (https://github.com/arZone1/InfraredSensors/blob/master/Raymond_Budget.pdf).
 
 ### September 20, 2017
 
