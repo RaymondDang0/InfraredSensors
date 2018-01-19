@@ -18,6 +18,8 @@ For my chosen project it was the use of an infrared sensor(IR) in collaboration 
 The project will utilize my partners sensors a motor driver and ultrasonic to create a robotic vacuum.
 The infrared sensor will be used in detection of objects that come to or near the robotic vacuum.
 
+![System Diagram](https://github.com/arZone1/InfraredSensors/blob/master/Hand-Ins/sysdiag.jpg?raw=true)
+
 ### Budget Of Materials
 
 The materials required for this project was:
