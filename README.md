@@ -54,7 +54,7 @@ There was no soldering required with my sensor due to it being able to be connec
 
 Powering up the raspberry pi the sensor will work without the code running due to the module being wired up directly to power and the output will be adjustable because the potentiometer being turned left or right. Running the code will allow for setting the output and getting detection where the LED will turn of on detection and left on when it is waiting for something to come in the way.
 
-![PowerOn] (https://github.com/arZone1/InfraredSensors/blob/master/Hand-Ins/piOn.jpg?raw=true)
+![PowerOn](https://github.com/arZone1/InfraredSensors/blob/master/Hand-Ins/piOn.jpg?raw=true)
 ### Unit Testing 
 -	Checking if the IR is detecting anything in the way of the sensor if there is detection in front of the IR cause the LED to turn ON
 -	Checking the IR if nothing is in the way of the IR cause the LED to stay OFF
