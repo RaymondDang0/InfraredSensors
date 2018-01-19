@@ -1,7 +1,7 @@
 # InfraredSensors
 Using infrared sensors in collaboration with group members for robotic vacuum
 
-##Table of Contents
+### Table of Contents
 1. [Introduction] (#introduction)
 2. [Infrared Sensor Budget] (#IRBudget)
 3. [Time Commitment] (#IRTime)
